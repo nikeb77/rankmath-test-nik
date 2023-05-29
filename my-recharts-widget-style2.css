@@ -1,0 +1,29 @@
+.widget-container {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 400px;
+}
+
+.widget-header {
+  display: inline-block;
+  font-size: 18px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+
+.widget-dropdown {
+  display: inline-block;
+  margin-bottom: 10px;
+  margin-left: auto;
+  float: right;
+
+}
+
+.widget-dropdown select {
+  padding: 5px;
+}
+
+.widget-graph {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
